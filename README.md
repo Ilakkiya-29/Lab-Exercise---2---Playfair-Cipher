@@ -78,6 +78,7 @@ print("Encrypted text:", encrypted)
 ```
 
 ## Output:
+<img width="527" height="441" alt="image" src="https://github.com/user-attachments/assets/3a7f9499-db3a-4d90-be96-e17adc1df1ed" />
 
 ## Result:
 Thus the code is executed successfully.
